@@ -30,10 +30,10 @@ In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to 
 <br />
 
 ##
-
+<br />
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamHamed&show_icons=true&theme=gruvbox)
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamHamed&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
