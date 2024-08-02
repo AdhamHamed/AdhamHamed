@@ -7,6 +7,7 @@ I'm an Egyptian MERN-stack developer and (future) content creator building my ve
 In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledge about the NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Expericence with identifying threats, risks, and vulnerabilities; security hardening; threat modeling; and incident escalation and response. Proficient in the use of Linux command-line, SQL, and Python. Strong communication and cybersecurity-related problem-solving skills. Recently completed the Google Cybersecurity Professional Certificate, a rigorous, skill-based program that covers key cybersecurity knowledge and skills. Acitve on ctfs and active/retired machines focusing more on securing vulnerable machines. And why cyber Gandalf? because YOU. SHALL NOT. PASS.🔐
 
 ---
+
 ### 🔔 Social Media
 <p align="center">
   <a href="https://www.linkedin.com/in/adhamhamed11/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
