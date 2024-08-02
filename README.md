@@ -7,7 +7,7 @@ I'm an Egyptian MERN-stack developer and (future) content creator building my ve
 In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledge about the NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Expericence with identifying threats, risks, and vulnerabilities; security hardening; threat modeling; and incident escalation and response. Proficient in the use of Linux command-line, SQL, and Python. Strong communication and cybersecurity-related problem-solving skills. Recently completed the Google Cybersecurity Professional Certificate, a rigorous, skill-based program that covers key cybersecurity knowledge and skills. Acitve on ctfs and active/retired machines focusing more on securing vulnerable machines. And why cyber Gandalf? because YOU. SHALL NOT. PASS.🔐
 
 ---
-### Social Media
+### 🔔 Social Media
 <p align="center">
   <a href="https://www.linkedin.com/in/adhamhamed11/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,10 +15,7 @@ In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/securityinpowershell"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-
 
 ---
 
@@ -57,5 +54,3 @@ In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to 
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
