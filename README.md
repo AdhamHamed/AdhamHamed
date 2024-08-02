@@ -29,8 +29,8 @@ In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to 
 
 <br />
 
-##
-<br />
+---
+
 ### 📊 Stats
 
 ![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamHamed&show_icons=true&theme=gruvbox)
