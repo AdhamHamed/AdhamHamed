@@ -1,8 +1,10 @@
-# 🏄‍♂️ Forrest Knight
+# 🕸 Adham Hamed
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Cyber Gandalf (Developer/Cybersecurity Analyst/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm an Egyptian MERN-stack developer and (future) content creator building my version of the digital world one step at a time. I do my best to get better in programming skills such as problem solving, OOP, desing patterns, and many more. I found myself more interested in back-end even though I'm pretty decent at front-end; but the moment I started learning Node.js and express.js, that was a complete different feeling✨.
+
+In cybersecurity: I'm a detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledge about the NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Expericence with identifying threats, risks, and vulnerabilities; security hardening; threat modeling; and incident escalation and response. Proficient in the use of Linux command-line, SQL, and Python. Strong communication and cybersecurity-related problem-solving skills. Recently completed the Google Cybersecurity Professional Certificate, a rigorous, skill-based program that covers key cybersecurity knowledge and skills. Acitve on ctfs and active/retired machines focusing more on securing vulnerable machines.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
