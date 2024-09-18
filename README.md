@@ -1,6 +1,6 @@
 # 🕸 Adham Hamed
 
-**`Cyber Gandalf (Developer/Cybersecurity Analyst/Creator)`**
+**`Cyber Gandalf (Full-Stack Developer / Cybersecurity Analyst / Content Creator)`**
 
 I'm an Egyptian MERN-stack developer and (future) content creator building my version of the digital world one step at a time. I do my best to get better in programming skills such as problem solving, OOP, desing patterns, and many more. I found myself more interested in back-end even though I'm pretty decent at front-end; but the moment I started learning Node.js and express.js, that was a complete different feeling✨.
 
