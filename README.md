@@ -1,4 +1,4 @@
-# 🕸 Adham Abouelmagd, a.k.a Glory.
+# 🕸 Adham Abouelmagd, a.k.a _**Glory**_.
 
 **`Cyber Gandalf (Full-Stack Developer / Cybersecurity Analyst / Content Creator)`**
 
